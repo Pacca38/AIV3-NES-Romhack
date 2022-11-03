@@ -1,0 +1,6 @@
+RAM:
+6A = Vita
+A6 = Vite
+ROM:
+0001C260 ---> C6 A6 = Decrementa vite
+00016250 ---> E5 0C = Decrementa vita
